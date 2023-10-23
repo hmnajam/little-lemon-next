@@ -16,12 +16,12 @@ export const metadata: Metadata = {
     siteName: "Little Lemon Restauran",
     images: [
       {
-        url: "assets/nav-logo.png",
+        url: "nav-logo.png",
         width: 800,
         height: 600,
       },
       {
-        url: "favicon.ico",
+        url: "nav-logo.png",
         width: 1800,
         height: 1600,
         alt: "Little Lemon",
