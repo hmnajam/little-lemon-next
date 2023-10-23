@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     siteName: "Little Lemon Restauran",
     images: [
       {
-        url: "https://little-lemon-next.vercel.app/_next/image?url=%2Fassets%5Cnav-logo.png&w=128&q=75",
+        url: "assets/nav-logo.png",
         width: 800,
         height: 600,
       },
