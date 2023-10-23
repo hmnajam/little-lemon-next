@@ -21,18 +21,16 @@ export const metadata: Metadata = {
         height: 600,
       },
       {
-        url: "https://nextjs.org/og-alt.png",
+        url: "src/app/favicon.ico",
         width: 1800,
         height: 1600,
-        alt: "My custom alt",
+        alt: "Little Lemon",
       },
     ],
     locale: "en_US",
     type: "website",
   },
 };
-
-<meta name="description" content="your text goes here" />;
 
 export default function RootLayout({
   children,
