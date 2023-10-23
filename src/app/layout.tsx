@@ -10,10 +10,10 @@ export const metadata: Metadata = {
     "A family owned Mediterranean restaurant, focused on traditional recipes served with a modern twist.",
 
   openGraph: {
-    title: "Next.js",
-    description: "The React Framework for the Web",
-    url: "https://nextjs.org",
-    siteName: "Next.js",
+    title: "Little Lemon Restauran",
+    description: "A family owned Mediterranean restaurant, focused on traditional recipes served with a modern twist.",
+    url: "https://najam.pk",
+    siteName: "Little Lemon Restauran",
     images: [
       {
         url: "https://nextjs.org/og.png",
