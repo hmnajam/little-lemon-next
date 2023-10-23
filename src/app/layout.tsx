@@ -16,12 +16,12 @@ export const metadata: Metadata = {
     siteName: "Little Lemon Restauran",
     images: [
       {
-        url: "nav-logo.png",
+        url: "https://little-lemon-next-jn7nv0ljx-hmnajam.vercel.app/assets/nav-logo.png",
         width: 800,
         height: 600,
       },
       {
-        url: "nav-logo.png",
+        url: "https://little-lemon-next-jn7nv0ljx-hmnajam.vercel.app/assets/nav-logo.png",
         width: 1800,
         height: 1600,
         alt: "Little Lemon",
