@@ -5,17 +5,14 @@ export default function Header() {
   return (
     <header>
       <Navbar />
-      <section>
-        <h1>
-          The mediteranean Restaurant of your choice.
-          <img
-            src="/assets/nav-logo.png"
-            alt="header Image"
-            width={500}
-            height={600}
-          />
-        </h1>
-      </section>
+
+      <Image
+        src="/assets/big-image2.jpg"
+        alt="Header Image"
+        layout="responsive"
+        width={100}
+        height={100}
+      />
     </header>
   );
 }

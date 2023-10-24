@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     "A family owned Mediterranean restaurant, focused on traditional recipes served with a modern twist.",
 
   openGraph: {
-    title: "Little Lemon Restauran",
+    title: "Little Lemon Restauran Karachi",
     description: "A family owned Mediterranean restaurant, focused on traditional recipes served with a modern twist.",
     url: "https://najam.pk",
     siteName: "Little Lemon Restauran",
