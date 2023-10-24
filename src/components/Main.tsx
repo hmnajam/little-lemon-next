@@ -1,7 +1,8 @@
 export default function Main() {
     return (
         <main>
-        <h1>HomePage</h1>
+        <h1>This Week's Specials</h1>
+        Card Components
       </main>
     );
   }
