@@ -28,7 +28,7 @@ export default function Navbar() {
         {/* Your existing code for desktop menu */}
         <ul className="hidden md:flex space-x-4 text-white">
           <li>
-            <a href="/home" className="hover:underline">
+            <a href="/" className="hover:underline">
               Home
             </a>
           </li>
@@ -48,7 +48,7 @@ export default function Navbar() {
             </a>
           </li>
           <li>
-            <a href="/about" className="hover:underline">
+            <a href="/booking" className="hover:underline">
               Order Online
             </a>
           </li>

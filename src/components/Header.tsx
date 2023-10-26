@@ -6,13 +6,7 @@ export default function Header() {
     <header>
       <Navbar />
 
-      <Image
-        src="/assets/big-image2.jpg"
-        alt="Header Image"
-        layout="responsive"
-        width={100}
-        height={100}
-      />
+      
     </header>
   );
 }
