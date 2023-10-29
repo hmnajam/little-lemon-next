@@ -11,7 +11,8 @@ export const metadata: Metadata = {
 
   openGraph: {
     title: "Little Lemon Restauran Karachi",
-    description: "A family owned Mediterranean restaurant, focused on traditional recipes served with a modern twist.",
+    description:
+      "A family owned Mediterranean restaurant, focused on traditional recipes served with a modern twist.",
     url: "https://najam.pk",
     siteName: "Little Lemon Restauran",
     images: [
@@ -39,7 +40,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body className={inter.className}>
+        {children}
+        <script src="https://raw.githubusercontent.com/Meta-Front-End-Developer-PC/capstone/master/api.js"></script>
+      </body>
     </html>
   );
 }

@@ -8,14 +8,7 @@ export default function BookingPage() {
     <>
       <Header />
 
-<ReservationForm/>
-
-
-      
-
-
-
-
+      <ReservationForm />
 
       <Footer />
     </>

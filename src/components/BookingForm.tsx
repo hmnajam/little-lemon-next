@@ -74,10 +74,10 @@ function ReservationForm() {
         value={occasion}
         onChange={handleOccasionChange}
       >
-        <option>General</option>
+        <option>None</option>
         <option>Business Dinner</option>
         <option>Farewell</option>
-        <option>Surprise</option>
+        <option>Engagement</option>
         <option>Birthday</option>
         <option>Anniversary</option>
       </select>
